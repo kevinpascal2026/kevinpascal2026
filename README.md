@@ -1,4 +1,4 @@
-# Hi there, I'm Kevin 👋
+# Hi there, I'm Kevin Pascal 👋
 
 ### 🐍 Python Developer | 🐧 Linux Enthusiast | 🛠️ Problem Solver
 
